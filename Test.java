@@ -4,6 +4,6 @@ public class Test{
 
     //Print your name
     
-    System.out.println("Gayomi Wasana");
+    System.out.println("Randika Isuru Vijayanga");
   }
 }
